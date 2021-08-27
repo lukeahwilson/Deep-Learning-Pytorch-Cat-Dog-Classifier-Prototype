@@ -1,5 +1,8 @@
 .github/**
 
+# ALl of the image data
+Cat_Dog_data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
